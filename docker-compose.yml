@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  resume-parser:
+    build: .
+    container_name: resume-parser-app
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    # If using Ollama, connect to host network to access local Ollama server
+    # Uncomment the line below if you're running Ollama on the host machine
+    # network_mode: "host"

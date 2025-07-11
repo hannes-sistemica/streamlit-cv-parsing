@@ -1,0 +1,2 @@
+streamlit==1.32.2
+dspy-ai==2.4.10

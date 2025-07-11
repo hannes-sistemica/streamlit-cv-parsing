@@ -1,0 +1,27 @@
+John Smith
+Software Engineer
+john.smith@email.com
+Phone: (555) 123-4567
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley - 2020
+
+EXPERIENCE
+Senior Software Engineer
+TechCorp Inc. - 2022 to Present
+- Developed scalable web applications using React and Node.js
+- Led a team of 5 engineers on microservices architecture
+- Implemented CI/CD pipelines and automated testing
+
+Software Engineer
+StartupXYZ - 2020 to 2022
+- Built full-stack applications using Python and JavaScript
+- Collaborated with cross-functional teams on product development
+- Optimized database queries reducing response time by 40%
+
+SKILLS
+Programming Languages: Python, JavaScript, Java, C++
+Frameworks: React, Node.js, Django, Spring Boot
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Git, Docker, Kubernetes, AWS
